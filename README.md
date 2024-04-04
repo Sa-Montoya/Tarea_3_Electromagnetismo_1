@@ -1,5 +1,5 @@
 # Tarea_3_Electromagnetismo_1
-En este repositorio se encuentra el código de dos métodos para resolver la ecuación de Laplace con ciertas condiciones iniciales.
+En este repositorio se encuentra el código de dos métodos para resolver la ecuación de Laplace con ciertas condiciones iniciales en Relaxation method.
 En primer lugar se muestran las condiciones iniciales dadas, las cuales se pueden utilizar para realizar el test de cómo se ve el potencial en el espacio 2D. Aquí se pueden cambiar los valores de N, M y v0.
 
 Las primeras 2 gráficas muestran el potencial inicial, en donde todos los puntos son aleatorios a excepción de las condiciones iniciales impuestas por el problema.
